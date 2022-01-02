@@ -1,5 +1,8 @@
 Lo Nampio
 
+
+[example link](https://www.lonampio.com/)
+
 La piccola incredibile storia di quattro giovani "portatori" stanchi di essere denigrati dalle vecchie "Guide"...
 
 Correva l'anno 1927, allora essere guida alpina a Courmayeur era un blasone concesso mal volentieri dai "vecchi" ai "giovani".
