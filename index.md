@@ -1,8 +1,8 @@
 <head>
 
 link href="style.css" rel="stylesheet" media="all" type="text/css"
- <link rel="stylesheet" type="text/css" media="all" style.css" />
- style.css
+ <link rel="stylesheet" type="text/css" media="all" href="lonampio/style.css" />
+
  
 </head> 
 
