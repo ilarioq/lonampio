@@ -1,4 +1,8 @@
+<head>
+
 link href="style.css" rel="stylesheet" media="all" type="text/css"
+  
+</head> 
 
 Lo Nampio
 
