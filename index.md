@@ -2,12 +2,12 @@
 
 link href="style.css" rel="stylesheet" media="all" type="text/css"
  <link rel="stylesheet" type="text/css" media="all" href="lonampio/style.css" />
-
+{% link _lonampio/lapertze.md %}
  
 </head> 
 
 Lo Nampio
-[Link to a document]{{ site.baseurl }}{% link _lapertze.md %}
+[Link to a document]{{ site.baseurl }}{% link lapertze.md %}
 
 [example link](https://www.lonampio.com/)
 
