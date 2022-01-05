@@ -7,7 +7,7 @@ link href="style.css" rel="stylesheet" media="all" type="text/css"
 </head> 
 
 Lo Nampio
-
+{% link _lonampio/lapertze.md %}
 
 [example link](https://www.lonampio.com/)
 
