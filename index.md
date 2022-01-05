@@ -2,7 +2,9 @@
 
 link href="style.css" rel="stylesheet" media="all" type="text/css"
  <link rel="stylesheet" type="text/css" media="all" href="lonampio/style.css" />
-  [Link text]({% link /lapertze.md %})
+   [Link text]({{ site.baseurl }}{% link about.md %})
+
+
 
  
 </head> 
