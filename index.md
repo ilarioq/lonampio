@@ -2,7 +2,7 @@
 
 link href="style.css" rel="stylesheet" media="all" type="text/css"
  <link rel="stylesheet" type="text/css" media="all" href="lonampio/style.css" />
-{% link _lonampio/lapertze.md %}
+{% link _/lapertze.md %}
  
 </head> 
 
